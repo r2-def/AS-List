@@ -1,3 +1,4 @@
+:global newipsas [:toarray ""]
 :set newipsas (newipsas,"185.229.8.0/22")
 :set newipsas (newipsas,"194.117.250.0/23")
 :set newipsas (newipsas,"194.120.104.0/23")
