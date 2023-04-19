@@ -157,6 +157,8 @@
 /ip firewall address-list add address=84.47.164.0/23 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=84.47.168.0/21 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=84.47.168.0/22 list=AS comment=AS8641-Nauka-Svyaz
+/ip firewall address-list add address=84.47.172.0/24 list=AS comment=AS8641-Nauka-Svyaz
+/ip firewall address-list add address=84.47.174.0/23 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=84.47.176.0/23 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=84.47.176.0/24 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=84.47.177.0/24 list=AS comment=AS8641-Nauka-Svyaz
@@ -5153,7 +5155,6 @@
 /ip firewall address-list add address=94.139.252.0/22 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=95.174.88.0/21 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=45.87.132.0/22 list=AS comment=AS208722-Yandex-Oy
-/ip firewall address-list add address=45.87.133.0/24 list=AS comment=AS208722-Yandex-Oy
 /ip firewall address-list add address=77.105.181.0/24 list=AS comment=AS209024-MTS-PJSC
 /ip firewall address-list add address=77.105.183.0/24 list=AS comment=AS209024-MTS-PJSC
 /ip firewall address-list add address=77.105.184.0/24 list=AS comment=AS209024-MTS-PJSC
