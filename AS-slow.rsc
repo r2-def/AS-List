@@ -4472,15 +4472,6 @@
 /ip firewall address-list add address=62.76.89.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=62.76.90.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=62.76.91.0/24 list=AS comment=AS61400-Start-LLC
-/ip firewall address-list add address=77.220.216.0/21 list=AS comment=AS61400-Start-LLC
-/ip firewall address-list add address=77.220.216.0/24 list=AS comment=AS61400-Start-LLC
-/ip firewall address-list add address=77.220.217.0/24 list=AS comment=AS61400-Start-LLC
-/ip firewall address-list add address=77.220.218.0/24 list=AS comment=AS61400-Start-LLC
-/ip firewall address-list add address=77.220.219.0/24 list=AS comment=AS61400-Start-LLC
-/ip firewall address-list add address=77.220.220.0/24 list=AS comment=AS61400-Start-LLC
-/ip firewall address-list add address=77.220.221.0/24 list=AS comment=AS61400-Start-LLC
-/ip firewall address-list add address=77.220.222.0/24 list=AS comment=AS61400-Start-LLC
-/ip firewall address-list add address=77.220.223.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=77.83.244.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=78.24.92.0/22 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=78.24.92.0/24 list=AS comment=AS61400-Start-LLC
