@@ -2820,6 +2820,7 @@
 /ip firewall address-list add address=93.186.232.0/21 list=AS comment=AS47541-VKontakte-Ltd
 /ip firewall address-list add address=95.142.192.0/20 list=AS comment=AS47541-VKontakte-Ltd
 /ip firewall address-list add address=95.142.192.0/21 list=AS comment=AS47541-VKontakte-Ltd
+/ip firewall address-list add address=95.213.0.0/17 list=AS comment=AS47541-VKontakte-Ltd
 /ip firewall address-list add address=95.213.0.0/18 list=AS comment=AS47541-VKontakte-Ltd
 /ip firewall address-list add address=95.213.44.0/23 list=AS comment=AS47541-VKontakte-Ltd
 /ip firewall address-list add address=95.213.44.0/24 list=AS comment=AS47541-VKontakte-Ltd
@@ -2857,6 +2858,7 @@
 /ip firewall address-list add address=212.233.88.0/21 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=212.233.96.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=213.219.212.0/22 list=AS comment=AS47764-LLC-VK
+/ip firewall address-list add address=217.174.188.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=217.20.144.0/20 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=217.69.128.0/20 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=37.139.32.0/22 list=AS comment=AS47764-LLC-VK
