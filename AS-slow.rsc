@@ -2717,6 +2717,7 @@
 /ip firewall address-list add address=89.111.160.0/20 list=AS comment=AS39494-JSC-RU-CENTER
 /ip firewall address-list add address=89.111.160.0/24 list=AS comment=AS39494-JSC-RU-CENTER
 /ip firewall address-list add address=89.111.161.0/24 list=AS comment=AS39494-JSC-RU-CENTER
+/ip firewall address-list add address=89.111.166.0/24 list=AS comment=AS39494-JSC-RU-CENTER
 /ip firewall address-list add address=89.111.176.0/20 list=AS comment=AS39494-JSC-RU-CENTER
 /ip firewall address-list add address=89.111.176.0/22 list=AS comment=AS39494-JSC-RU-CENTER
 /ip firewall address-list add address=89.111.177.0/24 list=AS comment=AS39494-JSC-RU-CENTER
