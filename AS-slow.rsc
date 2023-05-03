@@ -3320,6 +3320,7 @@
 /ip firewall address-list add address=193.232.40.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=193.232.41.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=193.232.42.0/24 list=AS comment=AS49505-Selectel.com
+/ip firewall address-list add address=193.232.43.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=193.232.54.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=193.232.88.0/22 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=193.232.89.0/24 list=AS comment=AS49505-Selectel.com
@@ -3395,6 +3396,7 @@
 /ip firewall address-list add address=195.19.172.0/22 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.19.195.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.19.199.0/24 list=AS comment=AS49505-Selectel.com
+/ip firewall address-list add address=195.19.2.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.19.219.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.19.29.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.208.110.0/24 list=AS comment=AS49505-Selectel.com
@@ -3409,6 +3411,8 @@
 /ip firewall address-list add address=195.208.52.0/22 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.208.52.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.208.53.0/24 list=AS comment=AS49505-Selectel.com
+/ip firewall address-list add address=195.208.54.0/24 list=AS comment=AS49505-Selectel.com
+/ip firewall address-list add address=195.208.55.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.208.56.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.208.80.0/22 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.208.84.0/24 list=AS comment=AS49505-Selectel.com
