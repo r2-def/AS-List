@@ -4883,6 +4883,10 @@
 /ip firewall address-list add address=45.12.238.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=45.12.239.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=45.12.72.0/22 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=45.12.72.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=45.12.73.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=45.12.74.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=45.12.75.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=45.130.40.0/22 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=45.130.40.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=45.130.41.0/24 list=AS comment=AS198610-Beget-Ltd
