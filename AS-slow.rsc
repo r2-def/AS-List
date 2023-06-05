@@ -171,6 +171,8 @@
 /ip firewall address-list add address=91.244.241.0/24 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=91.244.242.0/24 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=91.244.243.0/24 list=AS comment=AS8641-Nauka-Svyaz
+/ip firewall address-list add address=109.172.82.0/24 list=AS comment=AS9123-TimeWeb-Ltd
+/ip firewall address-list add address=109.172.83.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=109.68.212.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=109.68.213.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=109.68.214.0/24 list=AS comment=AS9123-TimeWeb-Ltd
