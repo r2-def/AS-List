@@ -4779,6 +4779,10 @@
 /ip firewall address-list add address=91.204.73.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=91.204.74.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=91.204.75.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=95.163.228.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=95.163.229.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=95.163.230.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=95.163.231.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=95.163.232.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=95.163.233.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=95.163.234.0/24 list=AS comment=AS197695-REG.RU-Ltd
