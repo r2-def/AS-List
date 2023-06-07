@@ -2196,7 +2196,6 @@
 /ip firewall address-list add address=87.239.149.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=87.239.150.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=87.247.140.0/24 list=AS comment=AS12722-RECONN-LLC
-/ip firewall address-list add address=89.110.64.0/18 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=91.105.232.0/21 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=91.193.180.0/22 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=91.193.217.0/24 list=AS comment=AS12722-RECONN-LLC
