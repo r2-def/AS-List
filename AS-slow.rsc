@@ -5737,3 +5737,7 @@
 /ip firewall address-list add address=93.187.216.0/23 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=93.187.218.0/23 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=96.9.221.0/24 list=AS comment=AS54825-FreeBSD
+/ip firewall address-list add address=212.193.48.0/21 list=AS comment=AS201848-COMFORTEL-TRADERSOFT-INET
+/ip firewall address-list add address=212.193.56.0/21 list=AS comment=AS201848-COMFORTEL-TRADERSOFT-INET
+/ip firewall address-list add address=85.143.172.0/22 list=AS comment=AS201848-COMFORTEL-TRADERSOFT-INET
+/ip firewall address-list add address=85.143.208.0/20 list=AS comment=AS201848-COMFORTEL-TRADERSOFT-INET
