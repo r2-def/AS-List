@@ -2722,6 +2722,8 @@
 /ip firewall address-list add address=196.58.0.0/16 list=AS comment=AS37518-Fiber
 /ip firewall address-list add address=196.59.0.0/16 list=AS comment=AS37518-Fiber
 /ip firewall address-list add address=31.177.86.0/23 list=AS comment=AS39494-JSC-RU-CENTER
+/ip firewall address-list add address=31.177.86.0/24 list=AS comment=AS39494-JSC-RU-CENTER
+/ip firewall address-list add address=31.177.87.0/24 list=AS comment=AS39494-JSC-RU-CENTER
 /ip firewall address-list add address=79.174.72.0/22 list=AS comment=AS39494-JSC-RU-CENTER
 /ip firewall address-list add address=89.104.64.0/19 list=AS comment=AS39494-JSC-RU-CENTER
 /ip firewall address-list add address=89.104.64.0/20 list=AS comment=AS39494-JSC-RU-CENTER
@@ -3091,7 +3093,6 @@
 /ip firewall address-list add address=31.177.83.0/24 list=AS comment=AS48287-RU-CENTER
 /ip firewall address-list add address=31.177.84.0/24 list=AS comment=AS48287-RU-CENTER
 /ip firewall address-list add address=31.177.85.0/24 list=AS comment=AS48287-RU-CENTER
-/ip firewall address-list add address=31.177.86.0/24 list=AS comment=AS48287-RU-CENTER
 /ip firewall address-list add address=31.177.88.0/21 list=AS comment=AS48287-RU-CENTER
 /ip firewall address-list add address=31.177.88.0/22 list=AS comment=AS48287-RU-CENTER
 /ip firewall address-list add address=31.177.88.0/24 list=AS comment=AS48287-RU-CENTER
