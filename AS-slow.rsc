@@ -4291,6 +4291,7 @@
 /ip firewall address-list add address=84.54.37.0/24 list=AS comment=AS59504-vpsville.ru
 /ip firewall address-list add address=84.54.39.0/24 list=AS comment=AS59504-vpsville.ru
 /ip firewall address-list add address=95.215.110.0/23 list=AS comment=AS59504-vpsville.ru
+/ip firewall address-list add address=176.109.64.0/24 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=176.118.20.0/22 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=176.118.28.0/22 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=176.118.28.0/24 list=AS comment=AS60490-MTS-PJSC
