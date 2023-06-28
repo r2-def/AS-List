@@ -427,6 +427,7 @@
 :set newipsas (newipsas,"165.231.8.0/24")
 :set newipsas (newipsas,"165.231.96.0/19")
 :set newipsas (newipsas,"165.231.96.0/20")
+:set newipsas (newipsas,"166.1.136.0/24")
 :set newipsas (newipsas,"169.239.202.0/23")
 :set newipsas (newipsas,"172.240.152.0/24")
 :set newipsas (newipsas,"172.240.153.0/24")
