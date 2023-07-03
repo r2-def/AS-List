@@ -123,7 +123,6 @@
 /ip firewall address-list add address=213.208.186.0/23 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=213.208.188.0/22 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=77.94.160.0/19 list=AS comment=AS8641-Nauka-Svyaz
-/ip firewall address-list add address=77.94.162.0/24 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=77.94.175.0/24 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=77.95.20.0/22 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=81.26.144.0/21 list=AS comment=AS8641-Nauka-Svyaz
