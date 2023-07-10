@@ -4666,6 +4666,7 @@
 /ip firewall address-list add address=213.189.201.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=213.189.202.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=213.189.203.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=213.189.204.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=217.23.128.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=217.23.132.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=217.23.133.0/24 list=AS comment=AS197695-REG.RU-Ltd
