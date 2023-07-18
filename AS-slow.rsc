@@ -4851,10 +4851,13 @@
 /ip firewall address-list add address=217.172.25.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=217.172.26.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=217.172.27.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.129.100.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.129.101.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.129.96.0/20 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.129.96.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.129.97.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.129.98.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.129.99.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=45.12.16.0/22 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=45.12.16.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=45.12.17.0/24 list=AS comment=AS198610-Beget-Ltd
