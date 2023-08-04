@@ -2251,7 +2251,6 @@
 /ip firewall address-list add address=91.241.181.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=93.170.76.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=94.158.188.0/24 list=AS comment=AS12722-RECONN-LLC
-/ip firewall address-list add address=95.181.161.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=95.47.161.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=100.43.64.0/19 list=AS comment=AS13238-Yandex-LLC
 /ip firewall address-list add address=100.43.87.0/24 list=AS comment=AS13238-Yandex-LLC
