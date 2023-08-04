@@ -2509,6 +2509,7 @@
 /ip firewall address-list add address=37.202.12.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=37.202.13.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=62.152.32.0/19 list=AS comment=AS29076-Filanco-LLC
+/ip firewall address-list add address=62.152.32.0/22 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=62.152.32.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=62.152.33.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=62.152.34.0/24 list=AS comment=AS29076-Filanco-LLC
@@ -2516,6 +2517,7 @@
 /ip firewall address-list add address=62.152.36.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=62.152.37.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=62.152.38.0/24 list=AS comment=AS29076-Filanco-LLC
+/ip firewall address-list add address=62.152.40.0/21 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=62.152.40.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=62.152.41.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=62.152.42.0/24 list=AS comment=AS29076-Filanco-LLC
@@ -5123,7 +5125,6 @@
 /ip firewall address-list add address=89.232.160.0/21 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=89.232.168.0/22 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=89.232.176.0/22 list=AS comment=AS208677-CTL-LTD
-/ip firewall address-list add address=91.236.180.0/23 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=94.139.252.0/22 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=95.174.88.0/21 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=45.87.132.0/22 list=AS comment=AS208722-Yandex-Oy
