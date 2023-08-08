@@ -224,6 +224,7 @@
 /ip firewall address-list add address=185.233.186.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.233.187.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.251.20.0/24 list=AS comment=AS9123-TimeWeb-Ltd
+/ip firewall address-list add address=185.68.22.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=188.225.10.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=188.225.11.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=188.225.12.0/24 list=AS comment=AS9123-TimeWeb-Ltd
@@ -376,6 +377,7 @@
 /ip firewall address-list add address=78.40.217.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=78.40.218.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=78.40.219.0/24 list=AS comment=AS9123-TimeWeb-Ltd
+/ip firewall address-list add address=80.76.60.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=80.90.184.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=80.90.185.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=80.90.186.0/24 list=AS comment=AS9123-TimeWeb-Ltd
@@ -5301,7 +5303,6 @@
 /ip firewall address-list add address=217.144.98.0/24 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=217.144.99.0/24 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=2.56.88.0/24 list=AS comment=AS210079-EuroByte-LLC
-/ip firewall address-list add address=2.56.89.0/24 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=2.56.90.0/24 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=37.143.10.0/23 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=37.143.10.0/24 list=AS comment=AS210079-EuroByte-LLC
@@ -5785,7 +5786,6 @@
 /ip firewall address-list add address=181.215.1.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=181.215.11.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=181.215.52.0/24 list=AS comment=AS54825-FreeBSD
-/ip firewall address-list add address=181.41.198.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=185.114.152.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=185.114.155.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=185.140.114.0/23 list=AS comment=AS54825-FreeBSD
