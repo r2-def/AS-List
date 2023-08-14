@@ -49,6 +49,7 @@
 /ip firewall address-list add address=89.188.127.0/24 list=AS comment=AS3175-Filanco-LLC
 /ip firewall address-list add address=89.188.98.0/24 list=AS comment=AS3175-Filanco-LLC
 /ip firewall address-list add address=91.199.114.0/24 list=AS comment=AS3175-Filanco-LLC
+/ip firewall address-list add address=185.105.46.0/24 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=195.161.0.0/16 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=195.161.120.0/22 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=195.161.140.0/22 list=AS comment=AS8342-JSC-RTComm.RU
@@ -4343,7 +4344,6 @@
 /ip firewall address-list add address=91.185.95.0/24 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=178.170.190.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=178.170.217.0/24 list=AS comment=AS61400-Start-LLC
-/ip firewall address-list add address=185.105.46.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.111.216.0/22 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.111.216.0/23 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.111.216.0/24 list=AS comment=AS61400-Start-LLC
@@ -4363,10 +4363,6 @@
 /ip firewall address-list add address=185.40.31.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.62.103.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.7.28.0/22 list=AS comment=AS61400-Start-LLC
-/ip firewall address-list add address=185.73.182.0/24 list=AS comment=AS61400-Start-LLC
-/ip firewall address-list add address=185.73.183.0/24 list=AS comment=AS61400-Start-LLC
-/ip firewall address-list add address=185.75.132.0/24 list=AS comment=AS61400-Start-LLC
-/ip firewall address-list add address=185.75.133.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.86.92.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.95.228.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=195.14.123.0/24 list=AS comment=AS61400-Start-LLC
