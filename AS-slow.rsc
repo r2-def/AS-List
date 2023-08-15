@@ -4350,6 +4350,7 @@
 /ip firewall address-list add address=185.111.217.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.111.218.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.111.219.0/24 list=AS comment=AS61400-Start-LLC
+/ip firewall address-list add address=185.126.93.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.126.95.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.16.212.0/22 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.16.212.0/24 list=AS comment=AS61400-Start-LLC
@@ -5702,7 +5703,6 @@
 /ip firewall address-list add address=154.16.227.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=162.221.72.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=162.221.74.0/24 list=AS comment=AS54825-FreeBSD
-/ip firewall address-list add address=169.239.202.0/23 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=172.81.128.0/21 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=181.214.5.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=181.215.1.0/24 list=AS comment=AS54825-FreeBSD
