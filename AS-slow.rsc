@@ -4363,6 +4363,7 @@
 /ip firewall address-list add address=185.40.29.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.40.30.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.40.31.0/24 list=AS comment=AS61400-Start-LLC
+/ip firewall address-list add address=185.43.144.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.62.103.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.7.28.0/22 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=185.86.92.0/24 list=AS comment=AS61400-Start-LLC
