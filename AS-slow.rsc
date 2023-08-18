@@ -4430,6 +4430,7 @@
 /ip firewall address-list add address=78.24.93.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=78.24.94.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=78.24.95.0/24 list=AS comment=AS61400-Start-LLC
+/ip firewall address-list add address=85.204.240.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=89.248.235.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=89.248.236.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=91.107.84.0/24 list=AS comment=AS61400-Start-LLC
