@@ -5021,6 +5021,18 @@
 /ip firewall address-list add address=95.214.61.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=95.214.62.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=95.214.63.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=176.103.128.0/19 list=AS comment=AS199274-IONICA
+/ip firewall address-list add address=176.103.129.0/24 list=AS comment=AS199274-IONICA
+/ip firewall address-list add address=176.103.130.0/24 list=AS comment=AS199274-IONICA
+/ip firewall address-list add address=176.103.132.0/24 list=AS comment=AS199274-IONICA
+/ip firewall address-list add address=176.103.134.0/24 list=AS comment=AS199274-IONICA
+/ip firewall address-list add address=176.103.135.0/24 list=AS comment=AS199274-IONICA
+/ip firewall address-list add address=176.103.136.0/24 list=AS comment=AS199274-IONICA
+/ip firewall address-list add address=176.112.192.0/19 list=AS comment=AS199274-IONICA
+/ip firewall address-list add address=176.112.192.0/24 list=AS comment=AS199274-IONICA
+/ip firewall address-list add address=185.22.60.0/22 list=AS comment=AS199274-IONICA
+/ip firewall address-list add address=194.177.20.0/22 list=AS comment=AS199274-IONICA
+/ip firewall address-list add address=91.239.26.0/23 list=AS comment=AS199274-IONICA
 /ip firewall address-list add address=109.107.164.0/23 list=AS comment=AS202984-Team-HOST
 /ip firewall address-list add address=109.172.108.0/22 list=AS comment=AS202984-Team-HOST
 /ip firewall address-list add address=109.172.112.0/22 list=AS comment=AS202984-Team-HOST
@@ -5699,7 +5711,6 @@
 /ip firewall address-list add address=162.221.72.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=162.221.74.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=172.81.128.0/21 list=AS comment=AS54825-FreeBSD
-/ip firewall address-list add address=176.103.128.0/19 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=181.214.5.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=181.215.1.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=181.215.11.0/24 list=AS comment=AS54825-FreeBSD
