@@ -50,6 +50,7 @@
 /ip firewall address-list add address=89.188.98.0/24 list=AS comment=AS3175-Filanco-LLC
 /ip firewall address-list add address=91.199.114.0/24 list=AS comment=AS3175-Filanco-LLC
 /ip firewall address-list add address=185.105.46.0/24 list=AS comment=AS8342-JSC-RTComm.RU
+/ip firewall address-list add address=195.158.224.0/23 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=195.161.0.0/16 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=195.161.120.0/22 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=195.161.140.0/22 list=AS comment=AS8342-JSC-RTComm.RU
@@ -5751,6 +5752,7 @@
 /ip firewall address-list add address=50.31.98.0/23 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=67.202.70.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=69.162.134.0/24 list=AS comment=AS54825-FreeBSD
+/ip firewall address-list add address=77.37.84.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=86.109.0.0/20 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=86.109.0.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=86.109.10.0/23 list=AS comment=AS54825-FreeBSD
