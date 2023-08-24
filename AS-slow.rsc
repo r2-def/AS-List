@@ -4742,6 +4742,14 @@
 /ip firewall address-list add address=62.213.68.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=62.213.87.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=62.213.92.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=79.174.88.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=79.174.89.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=79.174.90.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=79.174.91.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=79.174.92.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=79.174.93.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=79.174.94.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=79.174.95.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=80.78.240.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=80.78.241.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=80.78.244.0/24 list=AS comment=AS197695-REG.RU-Ltd
@@ -4906,6 +4914,9 @@
 /ip firewall address-list add address=217.172.27.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.129.100.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.129.101.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.129.102.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.129.103.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.129.104.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.129.96.0/20 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.129.96.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.129.97.0/24 list=AS comment=AS198610-Beget-Ltd
