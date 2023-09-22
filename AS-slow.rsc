@@ -4402,6 +4402,7 @@
 /ip firewall address-list add address=194.150.89.0/24 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=194.150.90.0/24 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=194.150.91.0/24 list=AS comment=AS60490-MTS-PJSC
+/ip firewall address-list add address=212.109.207.0/24 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=212.109.214.0/23 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=212.6.56.0/24 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=213.108.128.0/24 list=AS comment=AS60490-MTS-PJSC
