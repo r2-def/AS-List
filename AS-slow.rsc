@@ -4377,6 +4377,7 @@
 /ip firewall address-list add address=45.139.184.0/22 list=AS comment=AS59504-vpsville.ru
 /ip firewall address-list add address=45.139.186.0/23 list=AS comment=AS59504-vpsville.ru
 /ip firewall address-list add address=45.142.208.0/24 list=AS comment=AS59504-vpsville.ru
+/ip firewall address-list add address=45.142.209.0/24 list=AS comment=AS59504-vpsville.ru
 /ip firewall address-list add address=45.151.136.0/22 list=AS comment=AS59504-vpsville.ru
 /ip firewall address-list add address=45.151.136.0/24 list=AS comment=AS59504-vpsville.ru
 /ip firewall address-list add address=45.151.137.0/24 list=AS comment=AS59504-vpsville.ru
