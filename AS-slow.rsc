@@ -3056,9 +3056,11 @@
 /ip firewall address-list add address=79.137.157.0/24 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=79.137.174.0/23 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=79.137.240.0/21 list=AS comment=AS47764-LLC-VK
+/ip firewall address-list add address=83.222.28.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=84.23.52.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=85.192.32.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=87.239.104.0/21 list=AS comment=AS47764-LLC-VK
+/ip firewall address-list add address=87.242.112.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=89.208.196.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=89.208.208.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=89.208.216.0/23 list=AS comment=AS47764-LLC-VK
@@ -3068,6 +3070,10 @@
 /ip firewall address-list add address=89.221.228.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=89.221.232.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=89.221.236.0/22 list=AS comment=AS47764-LLC-VK
+/ip firewall address-list add address=90.156.148.0/22 list=AS comment=AS47764-LLC-VK
+/ip firewall address-list add address=90.156.212.0/22 list=AS comment=AS47764-LLC-VK
+/ip firewall address-list add address=90.156.216.0/22 list=AS comment=AS47764-LLC-VK
+/ip firewall address-list add address=90.156.248.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=91.219.224.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=94.100.176.0/20 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=94.139.244.0/22 list=AS comment=AS47764-LLC-VK
