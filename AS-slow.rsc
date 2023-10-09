@@ -5207,9 +5207,6 @@
 /ip firewall address-list add address=185.22.60.0/22 list=AS comment=AS199274-IONICA
 /ip firewall address-list add address=194.177.20.0/22 list=AS comment=AS199274-IONICA
 /ip firewall address-list add address=91.239.26.0/23 list=AS comment=AS199274-IONICA
-/ip firewall address-list add address=109.172.108.0/22 list=AS comment=AS202984-Team-HOST
-/ip firewall address-list add address=109.172.112.0/22 list=AS comment=AS202984-Team-HOST
-/ip firewall address-list add address=109.172.4.0/22 list=AS comment=AS202984-Team-HOST
 /ip firewall address-list add address=109.248.59.0/24 list=AS comment=AS202984-Team-HOST
 /ip firewall address-list add address=185.176.25.0/24 list=AS comment=AS202984-Team-HOST
 /ip firewall address-list add address=185.211.244.0/24 list=AS comment=AS202984-Team-HOST
