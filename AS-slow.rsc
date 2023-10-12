@@ -4556,7 +4556,6 @@
 /ip firewall address-list add address=217.199.223.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=31.200.248.0/21 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=31.200.248.0/24 list=AS comment=AS61400-Start-LLC
-/ip firewall address-list add address=31.200.249.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=31.200.250.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=31.200.251.0/24 list=AS comment=AS61400-Start-LLC
 /ip firewall address-list add address=31.200.252.0/24 list=AS comment=AS61400-Start-LLC
