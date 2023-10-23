@@ -2756,6 +2756,7 @@
 /ip firewall address-list add address=188.120.253.0/24 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=188.120.254.0/23 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=193.150.0.0/23 list=AS comment=AS29182-JSC-IOT
+/ip firewall address-list add address=193.233.134.160/28 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=195.140.144.0/23 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=195.140.146.0/23 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=195.191.40.0/23 list=AS comment=AS29182-JSC-IOT
@@ -3339,7 +3340,6 @@
 /ip firewall address-list add address=91.217.20.0/24 list=AS comment=AS48287-RU-CENTER
 /ip firewall address-list add address=91.217.21.0/24 list=AS comment=AS48287-RU-CENTER
 /ip firewall address-list add address=109.106.20.0/22 list=AS comment=AS49505-Selectel.com
-/ip firewall address-list add address=109.107.190.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=109.196.166.0/23 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=109.196.172.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=109.197.16.0/24 list=AS comment=AS49505-Selectel.com
