@@ -355,6 +355,10 @@
 /ip firewall address-list add address=212.60.20.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=212.60.21.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=213.109.204.0/24 list=AS comment=AS9123-TimeWeb-Ltd
+/ip firewall address-list add address=213.171.10.0/24 list=AS comment=AS9123-TimeWeb-Ltd
+/ip firewall address-list add address=213.171.12.0/24 list=AS comment=AS9123-TimeWeb-Ltd
+/ip firewall address-list add address=213.171.14.0/24 list=AS comment=AS9123-TimeWeb-Ltd
+/ip firewall address-list add address=213.171.15.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=213.171.3.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=213.171.4.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=213.171.5.0/24 list=AS comment=AS9123-TimeWeb-Ltd
