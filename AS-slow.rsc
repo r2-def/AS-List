@@ -2516,6 +2516,7 @@
 /ip firewall address-list add address=83.166.224.0/20 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.224.0/21 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.225.0/24 list=AS comment=AS24936-RIM2000M
+/ip firewall address-list add address=83.166.230.0/23 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.232.0/24 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.240.0/20 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.240.0/23 list=AS comment=AS24936-RIM2000M
@@ -5447,7 +5448,6 @@
 /ip firewall address-list add address=217.144.98.0/24 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=217.144.99.0/24 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=2.56.88.0/24 list=AS comment=AS210079-EuroByte-LLC
-/ip firewall address-list add address=2.56.90.0/24 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=37.143.10.0/23 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=37.143.10.0/24 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=37.143.11.0/24 list=AS comment=AS210079-EuroByte-LLC
