@@ -3167,7 +3167,6 @@
 /ip firewall address-list add address=95.163.216.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=95.163.248.0/21 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=95.163.32.0/19 list=AS comment=AS47764-LLC-VK
-/ip firewall address-list add address=109.234.33.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=109.234.34.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=109.234.35.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=109.234.36.0/24 list=AS comment=AS48282-vdsina.ru
