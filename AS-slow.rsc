@@ -702,7 +702,6 @@
 /ip firewall address-list add address=142.91.8.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=142.91.9.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=164.138.99.0/24 list=AS comment=AS7979-SERVERS.RU
-/ip firewall address-list add address=166.1.136.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=172.240.100.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=172.240.101.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=172.240.102.0/24 list=AS comment=AS7979-SERVERS.RU
