@@ -3496,6 +3496,7 @@
 /ip firewall address-list add address=185.232.19.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=185.235.247.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=185.246.216.0/24 list=AS comment=AS49505-Selectel.com
+/ip firewall address-list add address=185.31.164.0/22 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=185.55.56.0/22 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=185.58.112.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=185.58.113.0/24 list=AS comment=AS49505-Selectel.com
@@ -3625,6 +3626,7 @@
 /ip firewall address-list add address=194.85.180.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=194.85.181.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=194.85.182.0/24 list=AS comment=AS49505-Selectel.com
+/ip firewall address-list add address=195.178.20.0/23 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.19.0.0/23 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.19.168.0/22 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.19.172.0/22 list=AS comment=AS49505-Selectel.com
@@ -3648,6 +3650,7 @@
 /ip firewall address-list add address=195.209.145.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.209.188.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.216.132.0/22 list=AS comment=AS49505-Selectel.com
+/ip firewall address-list add address=195.225.108.0/22 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.225.99.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.245.103.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=195.43.94.0/23 list=AS comment=AS49505-Selectel.com
@@ -4196,10 +4199,12 @@
 /ip firewall address-list add address=91.206.68.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=91.208.43.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=91.213.35.0/24 list=AS comment=AS49505-Selectel.com
+/ip firewall address-list add address=91.219.188.0/22 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=91.220.206.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=91.220.229.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=91.220.81.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=91.221.39.0/24 list=AS comment=AS49505-Selectel.com
+/ip firewall address-list add address=91.224.132.0/23 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=91.230.38.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=91.230.39.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=91.234.11.0/24 list=AS comment=AS49505-Selectel.com
@@ -5199,8 +5204,6 @@
 /ip firewall address-list add address=5.181.111.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=5.35.80.0/20 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=5.35.80.0/23 list=AS comment=AS198610-Beget-Ltd
-/ip firewall address-list add address=5.35.80.0/24 list=AS comment=AS198610-Beget-Ltd
-/ip firewall address-list add address=5.35.81.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=5.35.82.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=5.35.83.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=5.35.84.0/24 list=AS comment=AS198610-Beget-Ltd
