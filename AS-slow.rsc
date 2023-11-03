@@ -2268,6 +2268,8 @@
 /ip firewall address-list add address=66.242.8.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=66.242.9.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=81.17.120.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=87.76.25.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=87.76.26.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=88.212.212.0/22 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=88.212.212.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=88.212.213.0/24 list=AS comment=AS7979-SERVERS.RU
@@ -4161,7 +4163,6 @@
 /ip firewall address-list add address=85.143.58.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=85.143.59.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=85.143.60.0/24 list=AS comment=AS49505-Selectel.com
-/ip firewall address-list add address=85.143.61.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=85.143.62.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=85.143.63.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=86.62.16.0/22 list=AS comment=AS49505-Selectel.com
