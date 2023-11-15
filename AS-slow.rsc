@@ -3310,9 +3310,6 @@
 /ip firewall address-list add address=91.189.116.0/22 list=AS comment=AS48287-RU-CENTER
 /ip firewall address-list add address=91.217.20.0/24 list=AS comment=AS48287-RU-CENTER
 /ip firewall address-list add address=91.217.21.0/24 list=AS comment=AS48287-RU-CENTER
-/ip firewall address-list add address=103.147.170.0/24 list=AS comment=AS49505-Selectel.com
-/ip firewall address-list add address=103.148.141.0/24 list=AS comment=AS49505-Selectel.com
-/ip firewall address-list add address=103.163.53.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=109.106.20.0/22 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=109.196.172.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=109.197.16.0/24 list=AS comment=AS49505-Selectel.com
@@ -4878,6 +4875,14 @@
 /ip firewall address-list add address=62.213.68.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=62.213.87.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=62.213.92.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=79.174.80.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=79.174.81.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=79.174.82.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=79.174.83.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=79.174.84.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=79.174.85.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=79.174.86.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=79.174.87.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=79.174.88.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=79.174.89.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=79.174.90.0/24 list=AS comment=AS197695-REG.RU-Ltd
