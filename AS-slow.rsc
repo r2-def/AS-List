@@ -141,6 +141,7 @@
 /ip firewall address-list add address=213.135.82.0/23 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=213.135.84.0/22 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=213.135.88.0/22 list=AS comment=AS8641-Nauka-Svyaz
+/ip firewall address-list add address=213.135.92.0/24 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=213.208.160.0/21 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=213.208.168.0/23 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=213.208.170.0/24 list=AS comment=AS8641-Nauka-Svyaz
@@ -262,11 +263,14 @@
 /ip firewall address-list add address=185.178.45.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.178.46.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.178.47.0/24 list=AS comment=AS9123-TimeWeb-Ltd
+/ip firewall address-list add address=185.192.246.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.192.247.0/24 list=AS comment=AS9123-TimeWeb-Ltd
+/ip firewall address-list add address=185.196.117.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.200.240.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.200.241.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.200.242.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.200.243.0/24 list=AS comment=AS9123-TimeWeb-Ltd
+/ip firewall address-list add address=185.201.28.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.211.170.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.233.186.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.233.187.0/24 list=AS comment=AS9123-TimeWeb-Ltd
@@ -457,6 +461,7 @@
 /ip firewall address-list add address=78.40.217.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=78.40.218.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=78.40.219.0/24 list=AS comment=AS9123-TimeWeb-Ltd
+/ip firewall address-list add address=80.68.156.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=80.76.60.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=80.90.178.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=80.90.180.0/24 list=AS comment=AS9123-TimeWeb-Ltd
@@ -564,6 +569,7 @@
 /ip firewall address-list add address=91.222.237.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=91.222.238.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=91.222.239.0/24 list=AS comment=AS9123-TimeWeb-Ltd
+/ip firewall address-list add address=91.240.254.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=92.118.113.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=92.118.114.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=92.118.115.0/24 list=AS comment=AS9123-TimeWeb-Ltd
@@ -5001,6 +5007,7 @@
 /ip firewall address-list add address=89.108.91.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=89.108.92.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=89.108.93.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=89.108.94.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=89.108.96.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=89.108.97.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=89.108.98.0/24 list=AS comment=AS197695-REG.RU-Ltd
@@ -5819,7 +5826,6 @@
 /ip firewall address-list add address=162.221.72.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=162.221.74.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=172.81.128.0/21 list=AS comment=AS54825-FreeBSD
-/ip firewall address-list add address=181.215.11.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=185.114.152.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=185.114.155.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=185.140.114.0/23 list=AS comment=AS54825-FreeBSD
