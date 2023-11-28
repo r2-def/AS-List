@@ -5432,6 +5432,8 @@
 /ip firewall address-list add address=94.139.252.0/22 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=95.174.88.0/21 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=45.87.132.0/22 list=AS comment=AS208722-Yandex-Oy
+/ip firewall address-list add address=176.109.68.0/24 list=AS comment=AS209024-MTS-PJSC
+/ip firewall address-list add address=176.109.69.0/24 list=AS comment=AS209024-MTS-PJSC
 /ip firewall address-list add address=77.105.181.0/24 list=AS comment=AS209024-MTS-PJSC
 /ip firewall address-list add address=77.105.183.0/24 list=AS comment=AS209024-MTS-PJSC
 /ip firewall address-list add address=77.105.184.0/24 list=AS comment=AS209024-MTS-PJSC
