@@ -523,6 +523,7 @@
 /ip firewall address-list add address=81.31.244.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=81.31.245.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=81.31.246.0/24 list=AS comment=AS9123-TimeWeb-Ltd
+/ip firewall address-list add address=82.97.240.0/20 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=82.97.240.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=82.97.241.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=82.97.242.0/24 list=AS comment=AS9123-TimeWeb-Ltd
