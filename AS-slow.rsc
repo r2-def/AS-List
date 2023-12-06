@@ -813,6 +813,10 @@
 /ip firewall address-list add address=142.91.8.0/21 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=142.91.8.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=142.91.9.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=147.45.124.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=147.45.125.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=147.45.126.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=147.45.127.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=164.138.99.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=165.84.212.0/22 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=172.240.100.0/24 list=AS comment=AS7979-SERVERS.RU
@@ -2989,7 +2993,6 @@
 /ip firewall address-list add address=86.110.215.0/24 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=86.110.220.0/24 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=91.107.120.0/21 list=AS comment=AS29182-JSC-IOT
-/ip firewall address-list add address=91.225.216.0/23 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=91.228.224.0/23 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=91.240.84.0/23 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=91.240.86.0/23 list=AS comment=AS29182-JSC-IOT
