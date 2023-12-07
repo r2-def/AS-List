@@ -825,7 +825,6 @@
 /ip firewall address-list add address=142.91.8.0/21 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=142.91.8.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=142.91.9.0/24 list=AS comment=AS7979-SERVERS.RU
-/ip firewall address-list add address=147.45.127.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=164.138.99.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=165.84.212.0/22 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=172.240.100.0/24 list=AS comment=AS7979-SERVERS.RU
