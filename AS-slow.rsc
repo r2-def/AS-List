@@ -3276,7 +3276,6 @@
 /ip firewall address-list add address=90.156.212.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=90.156.216.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=90.156.232.0/21 list=AS comment=AS47764-LLC-VK
-/ip firewall address-list add address=90.156.248.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=91.219.224.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=91.231.132.0/22 list=AS comment=AS47764-LLC-VK
 /ip firewall address-list add address=94.100.176.0/20 list=AS comment=AS47764-LLC-VK
