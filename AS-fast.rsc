@@ -1,6 +1,4 @@
 :global newipsas [:toarray ""]
-:set newipsas (newipsas,"100.43.64.0/19")
-:set newipsas (newipsas,"100.43.87.0/24")
 :set newipsas (newipsas,"103.146.97.0/24")
 :set newipsas (newipsas,"103.209.231.0/24")
 :set newipsas (newipsas,"103.23.208.0/22")
@@ -2252,8 +2250,6 @@
 :set newipsas (newipsas,"198.16.4.0/22")
 :set newipsas (newipsas,"198.175.15.0/24")
 :set newipsas (newipsas,"199.195.118.0/24")
-:set newipsas (newipsas,"199.21.96.0/22")
-:set newipsas (newipsas,"199.36.240.0/22")
 :set newipsas (newipsas,"203.195.120.0/22")
 :set newipsas (newipsas,"203.195.120.0/24")
 :set newipsas (newipsas,"203.195.121.0/24")
