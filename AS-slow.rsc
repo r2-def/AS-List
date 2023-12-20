@@ -1024,8 +1024,6 @@
 /ip firewall address-list add address=172.241.45.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=172.241.46.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=172.241.47.0/24 list=AS comment=AS7979-SERVERS.RU
-/ip firewall address-list add address=172.241.48.0/24 list=AS comment=AS7979-SERVERS.RU
-/ip firewall address-list add address=172.241.49.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=172.241.50.0/23 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=172.241.50.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=172.241.5.0/24 list=AS comment=AS7979-SERVERS.RU
