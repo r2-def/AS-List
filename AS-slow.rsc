@@ -5503,6 +5503,7 @@
 /ip firewall address-list add address=78.108.90.0/23 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=78.108.92.0/23 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=78.108.94.0/23 list=AS comment=AS210079-EuroByte-LLC
+/ip firewall address-list add address=83.220.164.0/24 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=91.201.40.0/22 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=91.218.228.0/22 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=91.218.228.0/23 list=AS comment=AS210079-EuroByte-LLC
