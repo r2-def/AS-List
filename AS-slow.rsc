@@ -2466,6 +2466,13 @@
 /ip firewall address-list add address=94.242.238.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=94.242.239.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=94.242.240.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=94.242.241.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=94.242.242.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=94.242.243.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=94.242.244.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=94.242.245.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=94.242.246.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=94.242.247.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=96.46.176.0/20 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=96.46.176.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=96.46.177.0/24 list=AS comment=AS7979-SERVERS.RU
