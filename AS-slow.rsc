@@ -5643,7 +5643,6 @@
 /ip firewall address-list add address=185.177.239.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=185.206.100.0/22 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=185.206.100.0/24 list=AS comment=AS39134-SERVERS.COM
-/ip firewall address-list add address=188.42.178.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=188.42.87.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=188.42.90.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=188.42.91.0/24 list=AS comment=AS39134-SERVERS.COM
