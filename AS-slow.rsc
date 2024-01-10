@@ -5592,6 +5592,7 @@
 /ip firewall address-list add address=217.144.98.0/24 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=217.144.99.0/24 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=2.56.88.0/24 list=AS comment=AS210079-EuroByte-LLC
+/ip firewall address-list add address=2.56.89.0/24 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=37.143.10.0/23 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=37.143.12.0/23 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=37.143.14.0/23 list=AS comment=AS210079-EuroByte-LLC
