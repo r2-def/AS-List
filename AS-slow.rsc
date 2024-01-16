@@ -5038,6 +5038,7 @@
 /ip firewall address-list add address=89.108.97.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=89.108.98.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=89.108.99.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=89.111.168.0/23 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=89.111.168.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=89.111.169.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=89.111.170.0/24 list=AS comment=AS197695-REG.RU-Ltd
@@ -5307,7 +5308,6 @@
 /ip firewall address-list add address=185.231.244.0/24 list=AS comment=AS202984-Team-HOST
 /ip firewall address-list add address=185.231.245.0/24 list=AS comment=AS202984-Team-HOST
 /ip firewall address-list add address=185.231.246.0/23 list=AS comment=AS202984-Team-HOST
-/ip firewall address-list add address=193.105.4.0/24 list=AS comment=AS202984-Team-HOST
 /ip firewall address-list add address=194.147.114.0/24 list=AS comment=AS202984-Team-HOST
 /ip firewall address-list add address=194.38.10.0/24 list=AS comment=AS202984-Team-HOST
 /ip firewall address-list add address=195.19.92.0/24 list=AS comment=AS202984-Team-HOST
