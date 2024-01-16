@@ -5640,6 +5640,9 @@
 /ip firewall address-list add address=23.111.42.0/23 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=23.111.42.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=23.111.43.0/24 list=AS comment=AS39134-SERVERS.COM
+/ip firewall address-list add address=23.111.62.0/23 list=AS comment=AS39134-SERVERS.COM
+/ip firewall address-list add address=23.111.62.0/24 list=AS comment=AS39134-SERVERS.COM
+/ip firewall address-list add address=23.111.63.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=23.111.96.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=23.111.97.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=23.111.98.0/24 list=AS comment=AS39134-SERVERS.COM
