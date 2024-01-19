@@ -5040,6 +5040,11 @@
 /ip firewall address-list add address=89.108.97.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=89.108.98.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=89.108.99.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=89.111.152.0/22 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=89.111.152.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=89.111.153.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=89.111.154.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=89.111.155.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=89.111.168.0/22 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=89.111.168.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=89.111.169.0/24 list=AS comment=AS197695-REG.RU-Ltd
