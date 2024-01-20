@@ -4454,6 +4454,7 @@
 /ip firewall address-list add address=82.221.143.0/24 list=AS comment=AS50613-Advania-ISL
 /ip firewall address-list add address=82.221.146.0/24 list=AS comment=AS50613-Advania-ISL
 /ip firewall address-list add address=82.221.96.0/19 list=AS comment=AS50613-Advania-ISL
+/ip firewall address-list add address=147.45.112.0/22 list=AS comment=AS59504-vpsville.ru
 /ip firewall address-list add address=147.45.46.0/24 list=AS comment=AS59504-vpsville.ru
 /ip firewall address-list add address=185.118.64.0/22 list=AS comment=AS59504-vpsville.ru
 /ip firewall address-list add address=185.118.64.0/24 list=AS comment=AS59504-vpsville.ru
