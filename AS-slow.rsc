@@ -4986,6 +4986,9 @@
 /ip firewall address-list add address=79.174.95.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=80.78.240.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=80.78.241.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=80.78.242.0/23 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=80.78.242.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=80.78.243.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=80.78.244.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=80.78.245.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=80.78.246.0/24 list=AS comment=AS197695-REG.RU-Ltd
@@ -5762,6 +5765,10 @@
 /ip firewall address-list add address=88.212.253.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=88.212.254.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=88.212.255.0/24 list=AS comment=AS39134-SERVERS.COM
+/ip firewall address-list add address=94.241.160.0/24 list=AS comment=AS39134-SERVERS.COM
+/ip firewall address-list add address=94.241.161.0/24 list=AS comment=AS39134-SERVERS.COM
+/ip firewall address-list add address=94.241.162.0/24 list=AS comment=AS39134-SERVERS.COM
+/ip firewall address-list add address=94.241.163.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=152.89.216.0/22 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=152.89.216.0/24 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=152.89.217.0/24 list=AS comment=AS56694-SmartApe
