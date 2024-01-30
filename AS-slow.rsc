@@ -5774,10 +5774,6 @@
 /ip firewall address-list add address=88.212.253.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=88.212.254.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=88.212.255.0/24 list=AS comment=AS39134-SERVERS.COM
-/ip firewall address-list add address=94.241.160.0/24 list=AS comment=AS39134-SERVERS.COM
-/ip firewall address-list add address=94.241.161.0/24 list=AS comment=AS39134-SERVERS.COM
-/ip firewall address-list add address=94.241.162.0/24 list=AS comment=AS39134-SERVERS.COM
-/ip firewall address-list add address=94.241.163.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=152.89.216.0/22 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=152.89.216.0/24 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=152.89.217.0/24 list=AS comment=AS56694-SmartApe
