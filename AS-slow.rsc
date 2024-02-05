@@ -2814,6 +2814,11 @@
 /ip firewall address-list add address=91.236.111.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=91.236.112.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=91.236.113.0/24 list=AS comment=AS29076-Filanco-LLC
+/ip firewall address-list add address=109.172.108.0/22 list=AS comment=AS29182-JSC-IOT
+/ip firewall address-list add address=109.172.112.0/23 list=AS comment=AS29182-JSC-IOT
+/ip firewall address-list add address=109.172.114.0/23 list=AS comment=AS29182-JSC-IOT
+/ip firewall address-list add address=109.172.4.0/23 list=AS comment=AS29182-JSC-IOT
+/ip firewall address-list add address=109.172.6.0/23 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=149.154.64.0/23 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=149.154.66.0/23 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=149.154.68.0/23 list=AS comment=AS29182-JSC-IOT
