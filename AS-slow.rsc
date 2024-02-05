@@ -5607,6 +5607,7 @@
 /ip firewall address-list add address=185.100.157.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=185.102.115.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=185.177.239.0/24 list=AS comment=AS39134-SERVERS.COM
+/ip firewall address-list add address=185.184.53.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=185.206.100.0/22 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=185.206.100.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=188.42.148.0/24 list=AS comment=AS39134-SERVERS.COM
@@ -5634,6 +5635,9 @@
 /ip firewall address-list add address=188.42.90.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=188.42.91.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=188.42.99.0/24 list=AS comment=AS39134-SERVERS.COM
+/ip firewall address-list add address=193.32.191.0/24 list=AS comment=AS39134-SERVERS.COM
+/ip firewall address-list add address=193.47.42.0/24 list=AS comment=AS39134-SERVERS.COM
+/ip firewall address-list add address=193.47.43.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=194.226.133.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=213.196.52.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=213.196.53.0/24 list=AS comment=AS39134-SERVERS.COM
@@ -5757,6 +5761,8 @@
 /ip firewall address-list add address=23.111.97.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=23.111.98.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=23.111.99.0/24 list=AS comment=AS39134-SERVERS.COM
+/ip firewall address-list add address=45.133.234.0/24 list=AS comment=AS39134-SERVERS.COM
+/ip firewall address-list add address=85.8.185.0/24 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=88.212.192.0/19 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=88.212.192.0/20 list=AS comment=AS39134-SERVERS.COM
 /ip firewall address-list add address=88.212.192.0/24 list=AS comment=AS39134-SERVERS.COM
