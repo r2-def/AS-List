@@ -514,6 +514,9 @@
 /ip firewall address-list add address=78.40.217.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=78.40.218.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=78.40.219.0/24 list=AS comment=AS9123-TimeWeb-Ltd
+/ip firewall address-list add address=80.242.56.0/24 list=AS comment=AS9123-TimeWeb-Ltd
+/ip firewall address-list add address=80.242.57.0/24 list=AS comment=AS9123-TimeWeb-Ltd
+/ip firewall address-list add address=80.242.58.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=80.68.156.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=80.76.60.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=80.90.178.0/24 list=AS comment=AS9123-TimeWeb-Ltd
@@ -4316,8 +4319,6 @@
 /ip firewall address-list add address=91.230.39.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=91.234.11.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=91.236.121.0/24 list=AS comment=AS49505-Selectel.com
-/ip firewall address-list add address=91.241.182.0/24 list=AS comment=AS49505-Selectel.com
-/ip firewall address-list add address=91.241.183.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=92.249.12.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=92.249.15.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=92.255.11.0/24 list=AS comment=AS49505-Selectel.com
