@@ -3755,6 +3755,7 @@
 /ip firewall address-list add address=31.129.44.0/23 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=31.129.46.0/23 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=31.129.48.0/23 list=AS comment=AS49505-Selectel.com
+/ip firewall address-list add address=31.129.50.0/23 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=31.129.52.0/22 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=31.131.248.0/21 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=31.131.248.0/24 list=AS comment=AS49505-Selectel.com
