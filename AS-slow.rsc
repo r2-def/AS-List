@@ -2483,8 +2483,6 @@
 /ip firewall address-list add address=45.11.212.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=45.11.22.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=45.128.130.0/23 list=AS comment=AS12722-RECONN-LLC
-/ip firewall address-list add address=45.128.130.0/24 list=AS comment=AS12722-RECONN-LLC
-/ip firewall address-list add address=45.128.131.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=45.14.220.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=45.14.221.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=45.144.38.0/24 list=AS comment=AS12722-RECONN-LLC
