@@ -3024,6 +3024,7 @@
 /ip firewall address-list add address=196.196.24.0/24 list=AS comment=AS37518-Fiber
 /ip firewall address-list add address=196.196.32.0/24 list=AS comment=AS37518-Fiber
 /ip firewall address-list add address=196.196.4.0/22 list=AS comment=AS37518-Fiber
+/ip firewall address-list add address=196.196.5.0/24 list=AS comment=AS37518-Fiber
 /ip firewall address-list add address=196.196.64.0/18 list=AS comment=AS37518-Fiber
 /ip firewall address-list add address=196.196.64.0/19 list=AS comment=AS37518-Fiber
 /ip firewall address-list add address=196.196.88.0/21 list=AS comment=AS37518-Fiber
