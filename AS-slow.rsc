@@ -2613,8 +2613,6 @@
 /ip firewall address-list add address=217.197.114.0/23 list=AS comment=AS20655-ESTT
 /ip firewall address-list add address=217.197.120.0/21 list=AS comment=AS20655-ESTT
 /ip firewall address-list add address=217.197.124.0/22 list=AS comment=AS20655-ESTT
-/ip firewall address-list add address=185.33.228.0/22 list=AS comment=AS24936-RIM2000M
-/ip firewall address-list add address=185.33.230.0/24 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=217.150.192.0/20 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=217.150.194.0/24 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=217.150.195.0/24 list=AS comment=AS24936-RIM2000M
