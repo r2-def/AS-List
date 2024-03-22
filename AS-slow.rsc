@@ -5988,12 +5988,6 @@
 /ip firewall address-list add address=95.143.212.0/22 list=AS comment=AS29124-GORCOM-NET
 /ip firewall address-list add address=95.143.216.0/23 list=AS comment=AS29124-GORCOM-NET
 /ip firewall address-list add address=185.104.208.0/22 list=AS comment=AS200449-GBI
-/ip firewall address-list add address=185.104.208.0/23 list=AS comment=AS200449-GBI
-/ip firewall address-list add address=185.104.208.0/24 list=AS comment=AS200449-GBI
-/ip firewall address-list add address=185.104.209.0/24 list=AS comment=AS200449-GBI
-/ip firewall address-list add address=185.104.210.0/23 list=AS comment=AS200449-GBI
-/ip firewall address-list add address=185.104.210.0/24 list=AS comment=AS200449-GBI
-/ip firewall address-list add address=185.104.211.0/24 list=AS comment=AS200449-GBI
 /ip firewall address-list add address=23.109.135.0/24 list=AS comment=AS200449-GBI
 /ip firewall address-list add address=103.236.212.0/22 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=103.60.12.0/22 list=AS comment=AS54825-FreeBSD
