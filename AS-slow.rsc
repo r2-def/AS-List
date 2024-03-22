@@ -208,11 +208,10 @@
 /ip firewall address-list add address=85.91.122.0/24 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=85.91.96.0/21 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=91.197.183.0/24 list=AS comment=AS8641-Nauka-Svyaz
-/ip firewall address-list add address=91.244.240.0/22 list=AS comment=AS8641-Nauka-Svyaz
+/ip firewall address-list add address=91.244.240.0/23 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=91.244.240.0/24 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=91.244.241.0/24 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=91.244.242.0/24 list=AS comment=AS8641-Nauka-Svyaz
-/ip firewall address-list add address=91.244.243.0/24 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=109.172.80.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=109.172.81.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=109.172.82.0/24 list=AS comment=AS9123-TimeWeb-Ltd
@@ -2370,6 +2369,14 @@
 /ip firewall address-list add address=88.211.197.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=88.211.198.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=88.211.199.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=88.211.204.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=88.211.205.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=88.211.206.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=88.211.207.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=88.211.208.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=88.211.209.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=88.211.210.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=88.211.211.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=94.242.192.0/22 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=94.242.192.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=94.242.193.0/24 list=AS comment=AS7979-SERVERS.RU
@@ -2640,7 +2647,6 @@
 /ip firewall address-list add address=83.166.225.0/24 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.228.0/23 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.230.0/23 list=AS comment=AS24936-RIM2000M
-/ip firewall address-list add address=83.166.232.0/24 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.240.0/20 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.240.0/23 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=92.242.57.0/24 list=AS comment=AS24936-RIM2000M
@@ -4631,6 +4637,7 @@
 /ip firewall address-list add address=176.109.72.0/21 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=176.109.72.0/22 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=176.109.76.0/22 list=AS comment=AS60490-MTS-PJSC
+/ip firewall address-list add address=176.109.80.0/24 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=176.118.20.0/22 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=176.118.28.0/22 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=176.118.28.0/24 list=AS comment=AS60490-MTS-PJSC
@@ -5532,6 +5539,7 @@
 /ip firewall address-list add address=176.109.68.0/24 list=AS comment=AS209024-MTS-PJSC
 /ip firewall address-list add address=176.109.69.0/24 list=AS comment=AS209024-MTS-PJSC
 /ip firewall address-list add address=176.109.71.0/24 list=AS comment=AS209024-MTS-PJSC
+/ip firewall address-list add address=176.109.81.0/24 list=AS comment=AS209024-MTS-PJSC
 /ip firewall address-list add address=77.105.181.0/24 list=AS comment=AS209024-MTS-PJSC
 /ip firewall address-list add address=77.105.183.0/24 list=AS comment=AS209024-MTS-PJSC
 /ip firewall address-list add address=77.105.184.0/24 list=AS comment=AS209024-MTS-PJSC
