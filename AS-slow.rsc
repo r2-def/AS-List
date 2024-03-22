@@ -2643,7 +2643,6 @@
 /ip firewall address-list add address=83.166.232.0/24 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.240.0/20 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.240.0/23 list=AS comment=AS24936-RIM2000M
-/ip firewall address-list add address=92.242.56.0/21 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=92.242.57.0/24 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=92.242.58.0/24 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=92.242.59.0/24 list=AS comment=AS24936-RIM2000M
