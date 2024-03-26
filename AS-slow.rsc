@@ -2641,14 +2641,11 @@
 /ip firewall address-list add address=217.150.195.0/24 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=217.150.199.0/24 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=217.150.200.0/24 list=AS comment=AS24936-RIM2000M
-/ip firewall address-list add address=83.166.224.0/19 list=AS comment=AS24936-RIM2000M
-/ip firewall address-list add address=83.166.224.0/20 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.224.0/21 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.224.0/22 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.225.0/24 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.228.0/23 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.230.0/23 list=AS comment=AS24936-RIM2000M
-/ip firewall address-list add address=83.166.240.0/20 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.240.0/21 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.240.0/23 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=92.242.57.0/24 list=AS comment=AS24936-RIM2000M
