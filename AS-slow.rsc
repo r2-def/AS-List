@@ -2690,6 +2690,7 @@
 /ip firewall address-list add address=87.242.67.0/24 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=87.242.68.0/22 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=87.242.72.0/21 list=AS comment=AS25532-MASTERHOST
+/ip firewall address-list add address=87.242.72.0/22 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=87.242.72.0/24 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=87.242.73.0/24 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=87.242.74.0/24 list=AS comment=AS25532-MASTERHOST
