@@ -3119,6 +3119,7 @@
 /ip firewall address-list add address=77.37.128.0/18 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=77.37.192.0/18 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=84.253.64.0/18 list=AS comment=AS42610-Moscow-RT-RU
+/ip firewall address-list add address=85.172.171.0/24 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=85.30.192.0/18 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=87.240.40.0/21 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=87.240.48.0/20 list=AS comment=AS42610-Moscow-RT-RU
