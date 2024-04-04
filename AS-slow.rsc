@@ -455,7 +455,6 @@
 /ip firewall address-list add address=213.171.10.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=213.171.12.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=213.171.14.0/24 list=AS comment=AS9123-TimeWeb-Ltd
-/ip firewall address-list add address=213.171.15.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=213.171.3.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=213.171.4.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=213.171.5.0/24 list=AS comment=AS9123-TimeWeb-Ltd
@@ -5941,14 +5940,14 @@
 /ip firewall address-list add address=188.127.237.0/24 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=188.127.238.0/24 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=188.127.239.0/24 list=AS comment=AS56694-SmartApe
-/ip firewall address-list add address=188.127.240.0/21 list=AS comment=AS56694-SmartApe
+/ip firewall address-list add address=188.127.240.0/22 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=188.127.240.0/24 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=188.127.241.0/24 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=188.127.242.0/24 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=188.127.243.0/24 list=AS comment=AS56694-SmartApe
+/ip firewall address-list add address=188.127.244.0/23 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=188.127.244.0/24 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=188.127.245.0/24 list=AS comment=AS56694-SmartApe
-/ip firewall address-list add address=188.127.246.0/24 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=188.127.248.0/22 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=188.127.248.0/24 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=188.127.249.0/24 list=AS comment=AS56694-SmartApe
