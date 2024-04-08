@@ -328,10 +328,6 @@
 /ip firewall address-list add address=185.125.201.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.125.202.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.125.203.0/24 list=AS comment=AS9123-TimeWeb-Ltd
-/ip firewall address-list add address=185.154.192.0/24 list=AS comment=AS9123-TimeWeb-Ltd
-/ip firewall address-list add address=185.154.193.0/24 list=AS comment=AS9123-TimeWeb-Ltd
-/ip firewall address-list add address=185.154.194.0/24 list=AS comment=AS9123-TimeWeb-Ltd
-/ip firewall address-list add address=185.154.195.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.166.196.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.166.197.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.178.44.0/24 list=AS comment=AS9123-TimeWeb-Ltd
@@ -634,7 +630,6 @@
 /ip firewall address-list add address=85.209.8.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=85.234.106.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=85.234.107.0/24 list=AS comment=AS9123-TimeWeb-Ltd
-/ip firewall address-list add address=85.234.110.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=85.92.108.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=85.92.110.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=85.92.111.0/24 list=AS comment=AS9123-TimeWeb-Ltd
@@ -2737,7 +2732,6 @@
 /ip firewall address-list add address=90.156.201.0/24 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=90.156.204.0/22 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=90.156.220.0/22 list=AS comment=AS25532-MASTERHOST
-/ip firewall address-list add address=90.156.240.0/21 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=90.156.240.0/22 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=90.156.252.0/22 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=164.215.74.0/24 list=AS comment=AS29076-Filanco-LLC
