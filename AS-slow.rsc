@@ -3195,6 +3195,7 @@
 /ip firewall address-list add address=87.240.166.0/23 list=AS comment=AS47541-VKontakte-Ltd
 /ip firewall address-list add address=87.240.166.0/24 list=AS comment=AS47541-VKontakte-Ltd
 /ip firewall address-list add address=87.240.167.0/24 list=AS comment=AS47541-VKontakte-Ltd
+/ip firewall address-list add address=89.221.235.0/24 list=AS comment=AS47541-VKontakte-Ltd
 /ip firewall address-list add address=93.186.224.0/21 list=AS comment=AS47541-VKontakte-Ltd
 /ip firewall address-list add address=93.186.232.0/21 list=AS comment=AS47541-VKontakte-Ltd
 /ip firewall address-list add address=95.142.192.0/20 list=AS comment=AS47541-VKontakte-Ltd
