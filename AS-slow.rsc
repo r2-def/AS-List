@@ -5954,6 +5954,11 @@
 /ip firewall address-list add address=188.127.254.0/23 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=188.127.254.0/24 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=188.127.255.0/24 list=AS comment=AS56694-SmartApe
+/ip firewall address-list add address=31.177.108.0/22 list=AS comment=AS56694-SmartApe
+/ip firewall address-list add address=31.177.108.0/24 list=AS comment=AS56694-SmartApe
+/ip firewall address-list add address=31.177.109.0/24 list=AS comment=AS56694-SmartApe
+/ip firewall address-list add address=31.177.110.0/24 list=AS comment=AS56694-SmartApe
+/ip firewall address-list add address=31.177.111.0/24 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=89.23.100.0/24 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=89.23.101.0/24 list=AS comment=AS56694-SmartApe
 /ip firewall address-list add address=89.23.102.0/24 list=AS comment=AS56694-SmartApe
