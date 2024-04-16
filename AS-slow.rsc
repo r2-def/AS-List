@@ -3096,8 +3096,6 @@
 /ip firewall address-list add address=89.111.177.0/24 list=AS comment=AS39494-JSC-RU-CENTER
 /ip firewall address-list add address=91.217.21.0/24 list=AS comment=AS39494-JSC-RU-CENTER
 /ip firewall address-list add address=109.173.0.0/17 list=AS comment=AS42610-Moscow-RT-RU
-/ip firewall address-list add address=109.173.0.0/18 list=AS comment=AS42610-Moscow-RT-RU
-/ip firewall address-list add address=109.173.64.0/18 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=178.140.0.0/16 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=185.19.20.0/22 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=188.255.0.0/17 list=AS comment=AS42610-Moscow-RT-RU
@@ -3106,16 +3104,10 @@
 /ip firewall address-list add address=37.110.128.0/19 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=37.204.0.0/16 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=46.242.0.0/17 list=AS comment=AS42610-Moscow-RT-RU
-/ip firewall address-list add address=46.242.10.0/23 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=46.242.12.0/22 list=AS comment=AS42610-Moscow-RT-RU
-/ip firewall address-list add address=46.242.12.0/23 list=AS comment=AS42610-Moscow-RT-RU
-/ip firewall address-list add address=46.242.14.0/23 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=46.242.8.0/22 list=AS comment=AS42610-Moscow-RT-RU
-/ip firewall address-list add address=46.242.8.0/23 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=5.228.0.0/16 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=77.37.128.0/17 list=AS comment=AS42610-Moscow-RT-RU
-/ip firewall address-list add address=77.37.128.0/18 list=AS comment=AS42610-Moscow-RT-RU
-/ip firewall address-list add address=77.37.192.0/18 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=84.253.64.0/18 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=85.172.171.0/24 list=AS comment=AS42610-Moscow-RT-RU
 /ip firewall address-list add address=85.30.192.0/18 list=AS comment=AS42610-Moscow-RT-RU
