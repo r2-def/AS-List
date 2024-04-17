@@ -146,6 +146,7 @@
 /ip firewall address-list add address=185.134.36.0/22 list=AS comment=AS8416-Infoline
 /ip firewall address-list add address=217.113.112.0/20 list=AS comment=AS8416-Infoline
 /ip firewall address-list add address=81.23.176.0/20 list=AS comment=AS8416-Infoline
+/ip firewall address-list add address=146.158.92.0/23 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=185.106.107.0/24 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=185.120.184.0/22 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=213.135.64.0/19 list=AS comment=AS8641-Nauka-Svyaz
