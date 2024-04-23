@@ -49,6 +49,7 @@
 /ip firewall address-list add address=89.188.127.0/24 list=AS comment=AS3175-Filanco-LLC
 /ip firewall address-list add address=89.188.98.0/24 list=AS comment=AS3175-Filanco-LLC
 /ip firewall address-list add address=91.199.114.0/24 list=AS comment=AS3175-Filanco-LLC
+/ip firewall address-list add address=146.185.238.0/24 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=147.45.117.0/24 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=147.45.118.0/24 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=147.45.119.0/24 list=AS comment=AS8342-JSC-RTComm.RU
