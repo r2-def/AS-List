@@ -4683,6 +4683,7 @@
 /ip firewall address-list add address=176.109.72.0/22 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=176.109.76.0/22 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=176.109.80.0/24 list=AS comment=AS60490-MTS-PJSC
+/ip firewall address-list add address=176.109.82.0/24 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=176.118.20.0/22 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=176.118.28.0/22 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=176.118.28.0/24 list=AS comment=AS60490-MTS-PJSC
