@@ -2617,7 +2617,6 @@
 /ip firewall address-list add address=37.9.64.0/18 list=AS comment=AS13238-Yandex-LLC
 /ip firewall address-list add address=37.9.64.0/24 list=AS comment=AS13238-Yandex-LLC
 /ip firewall address-list add address=5.255.192.0/18 list=AS comment=AS13238-Yandex-LLC
-/ip firewall address-list add address=5.255.195.0/24 list=AS comment=AS13238-Yandex-LLC
 /ip firewall address-list add address=5.255.196.0/24 list=AS comment=AS13238-Yandex-LLC
 /ip firewall address-list add address=5.255.197.0/24 list=AS comment=AS13238-Yandex-LLC
 /ip firewall address-list add address=5.255.204.0/24 list=AS comment=AS13238-Yandex-LLC
