@@ -5304,6 +5304,11 @@
 /ip firewall address-list add address=217.172.25.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=217.172.26.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=217.172.27.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.128.36.0/22 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.128.36.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.128.37.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.128.38.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.128.39.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.129.100.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.129.101.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.129.102.0/24 list=AS comment=AS198610-Beget-Ltd
