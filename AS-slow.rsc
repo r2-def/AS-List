@@ -219,10 +219,6 @@
 /ip firewall address-list add address=91.244.240.0/24 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=91.244.241.0/24 list=AS comment=AS8641-Nauka-Svyaz
 /ip firewall address-list add address=91.244.242.0/24 list=AS comment=AS8641-Nauka-Svyaz
-/ip firewall address-list add address=109.172.88.0/24 list=AS comment=AS9123-TimeWeb-Ltd
-/ip firewall address-list add address=109.172.89.0/24 list=AS comment=AS9123-TimeWeb-Ltd
-/ip firewall address-list add address=109.172.90.0/24 list=AS comment=AS9123-TimeWeb-Ltd
-/ip firewall address-list add address=109.172.91.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=109.68.212.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=109.68.213.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=109.68.214.0/24 list=AS comment=AS9123-TimeWeb-Ltd
@@ -3332,6 +3328,10 @@
 /ip firewall address-list add address=109.172.85.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=109.172.86.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=109.172.87.0/24 list=AS comment=AS48282-vdsina.ru
+/ip firewall address-list add address=109.172.88.0/24 list=AS comment=AS48282-vdsina.ru
+/ip firewall address-list add address=109.172.89.0/24 list=AS comment=AS48282-vdsina.ru
+/ip firewall address-list add address=109.172.90.0/24 list=AS comment=AS48282-vdsina.ru
+/ip firewall address-list add address=109.172.91.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=178.20.40.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=178.20.41.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=178.20.42.0/24 list=AS comment=AS48282-vdsina.ru
