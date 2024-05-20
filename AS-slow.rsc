@@ -2796,7 +2796,6 @@
 /ip firewall address-list add address=185.238.201.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=185.238.202.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=185.238.203.0/24 list=AS comment=AS29076-Filanco-LLC
-/ip firewall address-list add address=188.92.176.0/21 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=193.109.246.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=193.109.247.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=193.124.158.0/23 list=AS comment=AS29076-Filanco-LLC

@@ -2013,7 +2013,6 @@
 :set newipsas (newipsas,"188.72.117.0/24")
 :set newipsas (newipsas,"188.72.118.0/24")
 :set newipsas (newipsas,"188.72.96.0/24")
-:set newipsas (newipsas,"188.92.176.0/21")
 :set newipsas (newipsas,"188.93.136.0/24")
 :set newipsas (newipsas,"188.93.16.0/21")
 :set newipsas (newipsas,"188.93.16.0/22")
