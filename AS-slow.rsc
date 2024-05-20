@@ -5613,7 +5613,6 @@
 /ip firewall address-list add address=91.224.86.0/23 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=94.139.252.0/22 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=95.174.88.0/21 list=AS comment=AS208677-CTL-LTD
-/ip firewall address-list add address=45.87.132.0/22 list=AS comment=AS208722-Yandex-Oy
 /ip firewall address-list add address=176.109.64.0/24 list=AS comment=AS209024-MTS-PJSC
 /ip firewall address-list add address=176.109.65.0/24 list=AS comment=AS209024-MTS-PJSC
 /ip firewall address-list add address=176.109.66.0/24 list=AS comment=AS209024-MTS-PJSC
