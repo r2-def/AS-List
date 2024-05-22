@@ -141,6 +141,7 @@
 /ip firewall address-list add address=81.177.80.0/20 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=91.209.148.0/24 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=91.212.150.0/24 list=AS comment=AS8342-JSC-RTComm.RU
+/ip firewall address-list add address=91.226.30.0/24 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=93.188.207.0/24 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=95.172.157.0/24 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=95.181.163.0/24 list=AS comment=AS8342-JSC-RTComm.RU
