@@ -383,7 +383,6 @@
 /ip firewall address-list add address=185.119.57.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.119.58.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.119.59.0/24 list=AS comment=AS9123-TimeWeb-Ltd
-/ip firewall address-list add address=185.124.64.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.125.200.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.125.201.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=185.125.202.0/24 list=AS comment=AS9123-TimeWeb-Ltd
@@ -3233,6 +3232,7 @@
 /ip firewall address-list add address=82.221.80.0/24 list=AS comment=AS44515-Advania-ISL
 /ip firewall address-list add address=82.221.81.0/24 list=AS comment=AS44515-Advania-ISL
 /ip firewall address-list add address=82.221.84.0/24 list=AS comment=AS44515-Advania-ISL
+/ip firewall address-list add address=82.221.88.0/22 list=AS comment=AS44515-Advania-ISL
 /ip firewall address-list add address=82.221.92.0/22 list=AS comment=AS44515-Advania-ISL
 /ip firewall address-list add address=185.32.248.0/22 list=AS comment=AS47541-VKontakte-Ltd
 /ip firewall address-list add address=5.181.61.0/24 list=AS comment=AS47541-VKontakte-Ltd
