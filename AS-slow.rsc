@@ -3222,6 +3222,8 @@
 /ip firewall address-list add address=212.30.242.0/24 list=AS comment=AS44515-Advania-ISL
 /ip firewall address-list add address=82.221.0.0/17 list=AS comment=AS44515-Advania-ISL
 /ip firewall address-list add address=82.221.0.0/21 list=AS comment=AS44515-Advania-ISL
+/ip firewall address-list add address=82.221.161.0/24 list=AS comment=AS44515-Advania-ISL
+/ip firewall address-list add address=82.221.162.0/24 list=AS comment=AS44515-Advania-ISL
 /ip firewall address-list add address=82.221.22.0/24 list=AS comment=AS44515-Advania-ISL
 /ip firewall address-list add address=82.221.28.0/24 list=AS comment=AS44515-Advania-ISL
 /ip firewall address-list add address=82.221.46.0/23 list=AS comment=AS44515-Advania-ISL
