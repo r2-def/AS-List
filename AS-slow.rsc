@@ -124,8 +124,6 @@
 /ip firewall address-list add address=62.102.145.0/24 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=78.153.143.0/24 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=78.153.145.0/24 list=AS comment=AS8342-JSC-RTComm.RU
-/ip firewall address-list add address=78.153.150.0/24 list=AS comment=AS8342-JSC-RTComm.RU
-/ip firewall address-list add address=78.153.151.0/24 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=78.153.154.0/23 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=81.17.158.0/24 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=81.176.0.0/16 list=AS comment=AS8342-JSC-RTComm.RU
@@ -2743,16 +2741,11 @@
 /ip firewall address-list add address=87.242.64.0/23 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=87.242.67.0/24 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=87.242.68.0/22 list=AS comment=AS25532-MASTERHOST
-/ip firewall address-list add address=87.242.72.0/21 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=87.242.72.0/22 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=87.242.72.0/24 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=87.242.73.0/24 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=87.242.74.0/24 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=87.242.75.0/24 list=AS comment=AS25532-MASTERHOST
-/ip firewall address-list add address=87.242.76.0/24 list=AS comment=AS25532-MASTERHOST
-/ip firewall address-list add address=87.242.77.0/24 list=AS comment=AS25532-MASTERHOST
-/ip firewall address-list add address=87.242.78.0/24 list=AS comment=AS25532-MASTERHOST
-/ip firewall address-list add address=87.242.79.0/24 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=87.242.80.0/22 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=87.242.80.0/24 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=87.242.81.0/24 list=AS comment=AS25532-MASTERHOST
