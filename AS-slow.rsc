@@ -5564,6 +5564,7 @@
 /ip firewall address-list add address=45.139.237.0/24 list=AS comment=AS202984-Team-HOST
 /ip firewall address-list add address=45.139.238.0/24 list=AS comment=AS202984-Team-HOST
 /ip firewall address-list add address=45.139.239.0/24 list=AS comment=AS202984-Team-HOST
+/ip firewall address-list add address=45.151.63.0/24 list=AS comment=AS202984-Team-HOST
 /ip firewall address-list add address=46.8.141.0/24 list=AS comment=AS202984-Team-HOST
 /ip firewall address-list add address=46.8.158.0/24 list=AS comment=AS202984-Team-HOST
 /ip firewall address-list add address=46.8.21.0/24 list=AS comment=AS202984-Team-HOST
