@@ -2700,10 +2700,16 @@
 /ip firewall address-list add address=217.197.120.0/21 list=AS comment=AS20655-ESTT
 /ip firewall address-list add address=217.197.124.0/22 list=AS comment=AS20655-ESTT
 /ip firewall address-list add address=217.150.192.0/20 list=AS comment=AS24936-RIM2000M
+/ip firewall address-list add address=217.150.192.0/23 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=217.150.194.0/24 list=AS comment=AS24936-RIM2000M
-/ip firewall address-list add address=217.150.195.0/24 list=AS comment=AS24936-RIM2000M
+/ip firewall address-list add address=217.150.198.0/23 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=217.150.199.0/24 list=AS comment=AS24936-RIM2000M
+/ip firewall address-list add address=217.150.200.0/22 list=AS comment=AS24936-RIM2000M
+/ip firewall address-list add address=217.150.200.0/23 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=217.150.200.0/24 list=AS comment=AS24936-RIM2000M
+/ip firewall address-list add address=217.150.202.0/23 list=AS comment=AS24936-RIM2000M
+/ip firewall address-list add address=217.150.205.0/24 list=AS comment=AS24936-RIM2000M
+/ip firewall address-list add address=217.150.206.0/24 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.224.0/21 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.224.0/22 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.225.0/24 list=AS comment=AS24936-RIM2000M
@@ -4045,6 +4051,7 @@
 /ip firewall address-list add address=45.94.120.0/23 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=45.94.122.0/23 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=45.94.20.0/24 list=AS comment=AS49505-Selectel.com
+/ip firewall address-list add address=45.95.148.0/22 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=45.95.28.0/24 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=45.9.88.0/22 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=46.148.224.0/20 list=AS comment=AS49505-Selectel.com
