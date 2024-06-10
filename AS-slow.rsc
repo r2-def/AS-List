@@ -4413,6 +4413,7 @@
 /ip firewall address-list add address=87.228.0.0/17 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=87.228.0.0/22 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=87.228.10.0/23 list=AS comment=AS49505-Selectel.com
+/ip firewall address-list add address=87.228.12.0/23 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=87.228.4.0/22 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=87.228.8.0/23 list=AS comment=AS49505-Selectel.com
 /ip firewall address-list add address=87.236.150.0/24 list=AS comment=AS49505-Selectel.com
