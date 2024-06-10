@@ -3030,6 +3030,10 @@
 /ip firewall address-list add address=83.220.170.0/23 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=83.220.172.0/23 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=83.220.174.0/23 list=AS comment=AS29182-JSC-IOT
+/ip firewall address-list add address=85.198.116.0/23 list=AS comment=AS29182-JSC-IOT
+/ip firewall address-list add address=85.198.118.0/23 list=AS comment=AS29182-JSC-IOT
+/ip firewall address-list add address=85.198.72.0/23 list=AS comment=AS29182-JSC-IOT
+/ip firewall address-list add address=85.198.74.0/23 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=86.110.194.0/24 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=86.110.208.0/23 list=AS comment=AS29182-JSC-IOT
 /ip firewall address-list add address=86.110.212.0/24 list=AS comment=AS29182-JSC-IOT
