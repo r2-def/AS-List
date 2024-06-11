@@ -353,7 +353,6 @@
 /ip firewall address-list add address=176.57.221.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=176.57.222.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=176.57.223.0/24 list=AS comment=AS9123-TimeWeb-Ltd
-/ip firewall address-list add address=178.130.131.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=178.253.22.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=178.253.23.0/24 list=AS comment=AS9123-TimeWeb-Ltd
 /ip firewall address-list add address=178.253.40.0/24 list=AS comment=AS9123-TimeWeb-Ltd
