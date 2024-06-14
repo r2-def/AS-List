@@ -3393,6 +3393,10 @@
 /ip firewall address-list add address=83.217.215.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=84.54.44.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=84.54.47.0/24 list=AS comment=AS48282-vdsina.ru
+/ip firewall address-list add address=85.198.108.0/24 list=AS comment=AS48282-vdsina.ru
+/ip firewall address-list add address=85.198.109.0/24 list=AS comment=AS48282-vdsina.ru
+/ip firewall address-list add address=85.198.110.0/24 list=AS comment=AS48282-vdsina.ru
+/ip firewall address-list add address=85.198.111.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=88.218.60.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=88.218.61.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=88.218.62.0/24 list=AS comment=AS48282-vdsina.ru
@@ -5404,6 +5408,15 @@
 /ip firewall address-list add address=31.128.37.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.128.38.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.128.39.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.128.40.0/21 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.128.40.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.128.41.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.128.42.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.128.43.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.128.44.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.128.45.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.128.46.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=31.128.47.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.129.100.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.129.101.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=31.129.102.0/24 list=AS comment=AS198610-Beget-Ltd
