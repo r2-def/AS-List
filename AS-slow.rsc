@@ -5718,6 +5718,10 @@
 /ip firewall address-list add address=185.105.111.0/24 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=185.11.246.0/23 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=185.12.92.0/22 list=AS comment=AS210079-EuroByte-LLC
+/ip firewall address-list add address=185.12.92.0/24 list=AS comment=AS210079-EuroByte-LLC
+/ip firewall address-list add address=185.12.93.0/24 list=AS comment=AS210079-EuroByte-LLC
+/ip firewall address-list add address=185.12.94.0/24 list=AS comment=AS210079-EuroByte-LLC
+/ip firewall address-list add address=185.12.95.0/24 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=185.154.52.0/24 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=185.154.53.0/24 list=AS comment=AS210079-EuroByte-LLC
 /ip firewall address-list add address=185.154.54.0/24 list=AS comment=AS210079-EuroByte-LLC
