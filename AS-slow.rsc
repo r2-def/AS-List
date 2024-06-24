@@ -3427,6 +3427,10 @@
 /ip firewall address-list add address=91.142.77.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=91.142.78.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=91.142.79.0/24 list=AS comment=AS48282-vdsina.ru
+/ip firewall address-list add address=91.184.244.0/24 list=AS comment=AS48282-vdsina.ru
+/ip firewall address-list add address=91.184.245.0/24 list=AS comment=AS48282-vdsina.ru
+/ip firewall address-list add address=91.184.246.0/24 list=AS comment=AS48282-vdsina.ru
+/ip firewall address-list add address=91.184.247.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=93.183.92.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=93.183.93.0/24 list=AS comment=AS48282-vdsina.ru
 /ip firewall address-list add address=93.183.94.0/24 list=AS comment=AS48282-vdsina.ru
