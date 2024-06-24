@@ -123,6 +123,7 @@
 /ip firewall address-list add address=45.84.3.0/24 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=46.8.248.0/24 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=46.8.4.0/24 list=AS comment=AS8342-JSC-RTComm.RU
+/ip firewall address-list add address=46.8.58.0/23 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=62.102.145.0/24 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=77.83.117.0/24 list=AS comment=AS8342-JSC-RTComm.RU
 /ip firewall address-list add address=78.153.143.0/24 list=AS comment=AS8342-JSC-RTComm.RU
@@ -5330,6 +5331,8 @@
 /ip firewall address-list add address=91.204.73.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=91.204.74.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=91.204.75.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=92.242.60.0/24 list=AS comment=AS197695-REG.RU-Ltd
+/ip firewall address-list add address=92.242.61.0/24 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=95.163.220.0/22 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=95.163.222.0/23 list=AS comment=AS197695-REG.RU-Ltd
 /ip firewall address-list add address=95.163.222.0/24 list=AS comment=AS197695-REG.RU-Ltd
