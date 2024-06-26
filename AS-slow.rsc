@@ -5698,6 +5698,7 @@
 /ip firewall address-list add address=87.242.84.0/22 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=87.242.88.0/21 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=88.218.65.0/24 list=AS comment=AS208677-CTL-LTD
+/ip firewall address-list add address=88.218.66.0/23 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=89.232.160.0/21 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=89.232.168.0/22 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=89.232.176.0/22 list=AS comment=AS208677-CTL-LTD
