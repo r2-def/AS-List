@@ -5437,6 +5437,7 @@
 /ip firewall address-list add address=193.200.73.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=193.200.74.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=193.200.75.0/24 list=AS comment=AS198610-Beget-Ltd
+/ip firewall address-list add address=212.67.8.0/21 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=213.139.208.0/22 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=213.139.208.0/24 list=AS comment=AS198610-Beget-Ltd
 /ip firewall address-list add address=213.139.209.0/24 list=AS comment=AS198610-Beget-Ltd
