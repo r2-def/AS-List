@@ -5668,6 +5668,7 @@
 /ip firewall address-list add address=141.101.151.0/24 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=141.101.152.0/24 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=141.101.201.0/24 list=AS comment=AS208677-CTL-LTD
+/ip firewall address-list add address=176.108.240.0/20 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=176.109.96.0/20 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=176.123.160.0/21 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=178.170.191.0/24 list=AS comment=AS208677-CTL-LTD
@@ -5684,6 +5685,7 @@
 /ip firewall address-list add address=188.72.96.0/24 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=192.144.12.0/22 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=193.105.4.0/24 list=AS comment=AS208677-CTL-LTD
+/ip firewall address-list add address=193.163.94.0/24 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=193.42.116.0/23 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=194.113.34.0/23 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=194.190.108.0/24 list=AS comment=AS208677-CTL-LTD
@@ -5692,6 +5694,8 @@
 /ip firewall address-list add address=194.5.92.0/23 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=195.128.152.0/24 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=213.171.24.0/21 list=AS comment=AS208677-CTL-LTD
+/ip firewall address-list add address=213.178.153.0/24 list=AS comment=AS208677-CTL-LTD
+/ip firewall address-list add address=31.40.248.0/23 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=37.18.100.0/23 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=37.18.10.0/24 list=AS comment=AS208677-CTL-LTD
 /ip firewall address-list add address=37.18.102.0/24 list=AS comment=AS208677-CTL-LTD
