@@ -2727,7 +2727,6 @@
 /ip firewall address-list add address=90.156.184.0/24 list=AS comment=AS13238-Yandex-LLC
 /ip firewall address-list add address=90.156.185.0/24 list=AS comment=AS13238-Yandex-LLC
 /ip firewall address-list add address=90.156.186.0/24 list=AS comment=AS13238-Yandex-LLC
-/ip firewall address-list add address=92.255.127.0/24 list=AS comment=AS13238-Yandex-LLC
 /ip firewall address-list add address=93.158.128.0/18 list=AS comment=AS13238-Yandex-LLC
 /ip firewall address-list add address=93.158.179.0/24 list=AS comment=AS13238-Yandex-LLC
 /ip firewall address-list add address=95.108.128.0/17 list=AS comment=AS13238-Yandex-LLC
@@ -2836,6 +2835,7 @@
 /ip firewall address-list add address=185.238.201.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=185.238.202.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=185.238.203.0/24 list=AS comment=AS29076-Filanco-LLC
+/ip firewall address-list add address=188.92.180.0/22 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=193.109.246.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=193.109.247.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=193.124.158.0/23 list=AS comment=AS29076-Filanco-LLC
@@ -2914,6 +2914,9 @@
 /ip firewall address-list add address=77.87.211.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=82.97.198.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=82.97.201.0/24 list=AS comment=AS29076-Filanco-LLC
+/ip firewall address-list add address=83.69.224.0/23 list=AS comment=AS29076-Filanco-LLC
+/ip firewall address-list add address=83.69.227.0/24 list=AS comment=AS29076-Filanco-LLC
+/ip firewall address-list add address=83.69.228.0/23 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=83.69.253.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=83.69.254.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=89.188.100.0/24 list=AS comment=AS29076-Filanco-LLC
