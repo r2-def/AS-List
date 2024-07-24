@@ -2077,6 +2077,8 @@
 /ip firewall address-list add address=23.109.131.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=23.109.132.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=23.109.133.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=23.109.134.0/24 list=AS comment=AS7979-SERVERS.RU
+/ip firewall address-list add address=23.109.135.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=23.109.136.0/22 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=23.109.136.0/24 list=AS comment=AS7979-SERVERS.RU
 /ip firewall address-list add address=23.109.137.0/24 list=AS comment=AS7979-SERVERS.RU
@@ -2674,7 +2676,6 @@
 /ip firewall address-list add address=91.105.232.0/21 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=91.188.220.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=91.193.180.0/22 list=AS comment=AS12722-RECONN-LLC
-/ip firewall address-list add address=91.193.217.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=91.195.21.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=91.224.126.0/23 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=91.224.126.0/24 list=AS comment=AS12722-RECONN-LLC
@@ -2761,16 +2762,6 @@
 /ip firewall address-list add address=83.166.230.0/23 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.240.0/21 list=AS comment=AS24936-RIM2000M
 /ip firewall address-list add address=83.166.240.0/23 list=AS comment=AS24936-RIM2000M
-/ip firewall address-list add address=217.16.16.0/20 list=AS comment=AS25532-MASTERHOST
-/ip firewall address-list add address=217.16.16.0/24 list=AS comment=AS25532-MASTERHOST
-/ip firewall address-list add address=217.16.18.0/24 list=AS comment=AS25532-MASTERHOST
-/ip firewall address-list add address=217.16.20.0/24 list=AS comment=AS25532-MASTERHOST
-/ip firewall address-list add address=217.16.21.0/24 list=AS comment=AS25532-MASTERHOST
-/ip firewall address-list add address=217.16.22.0/24 list=AS comment=AS25532-MASTERHOST
-/ip firewall address-list add address=217.16.24.0/24 list=AS comment=AS25532-MASTERHOST
-/ip firewall address-list add address=217.16.26.0/24 list=AS comment=AS25532-MASTERHOST
-/ip firewall address-list add address=217.16.27.0/24 list=AS comment=AS25532-MASTERHOST
-/ip firewall address-list add address=217.16.28.0/24 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=83.222.12.0/22 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=83.222.12.0/24 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=83.222.13.0/24 list=AS comment=AS25532-MASTERHOST
@@ -4806,6 +4797,7 @@
 /ip firewall address-list add address=45.151.137.0/24 list=AS comment=AS59504-vpsville.ru
 /ip firewall address-list add address=46.161.0.0/24 list=AS comment=AS59504-vpsville.ru
 /ip firewall address-list add address=80.76.40.0/24 list=AS comment=AS59504-vpsville.ru
+/ip firewall address-list add address=83.171.240.0/24 list=AS comment=AS59504-vpsville.ru
 /ip firewall address-list add address=84.54.37.0/24 list=AS comment=AS59504-vpsville.ru
 /ip firewall address-list add address=84.54.39.0/24 list=AS comment=AS59504-vpsville.ru
 /ip firewall address-list add address=95.215.110.0/23 list=AS comment=AS59504-vpsville.ru
@@ -4827,6 +4819,7 @@
 /ip firewall address-list add address=185.47.38.0/24 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=185.47.39.0/24 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=185.59.138.0/23 list=AS comment=AS60490-MTS-PJSC
+/ip firewall address-list add address=188.93.48.0/21 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=193.8.208.0/22 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=194.113.236.0/23 list=AS comment=AS60490-MTS-PJSC
 /ip firewall address-list add address=194.150.88.0/22 list=AS comment=AS60490-MTS-PJSC
