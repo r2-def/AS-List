@@ -2676,7 +2676,6 @@
 /ip firewall address-list add address=91.105.232.0/21 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=91.188.220.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=91.193.180.0/22 list=AS comment=AS12722-RECONN-LLC
-/ip firewall address-list add address=91.195.21.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=91.224.126.0/23 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=91.224.126.0/24 list=AS comment=AS12722-RECONN-LLC
 /ip firewall address-list add address=91.241.180.0/24 list=AS comment=AS12722-RECONN-LLC
@@ -2807,6 +2806,8 @@
 /ip firewall address-list add address=90.156.156.0/23 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=90.156.157.0/24 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=90.156.168.0/21 list=AS comment=AS25532-MASTERHOST
+/ip firewall address-list add address=90.156.168.0/22 list=AS comment=AS25532-MASTERHOST
+/ip firewall address-list add address=90.156.172.0/22 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=90.156.200.0/21 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=90.156.200.0/23 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=90.156.201.0/24 list=AS comment=AS25532-MASTERHOST
