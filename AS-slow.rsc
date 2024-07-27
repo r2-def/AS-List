@@ -6327,6 +6327,7 @@
 /ip firewall address-list add address=147.28.229.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=147.28.230.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=147.28.231.0/24 list=AS comment=AS54825-FreeBSD
+/ip firewall address-list add address=147.28.232.0/24 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=147.75.100.0/22 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=147.75.104.0/22 list=AS comment=AS54825-FreeBSD
 /ip firewall address-list add address=147.75.108.0/23 list=AS comment=AS54825-FreeBSD
