@@ -3531,7 +3531,6 @@
 /ip firewall address-list add address=31.177.88.0/22 list=AS comment=AS48287-RU-CENTER
 /ip firewall address-list add address=31.177.91.0/24 list=AS comment=AS48287-RU-CENTER
 /ip firewall address-list add address=31.177.92.0/22 list=AS comment=AS48287-RU-CENTER
-/ip firewall address-list add address=77.222.48.0/23 list=AS comment=AS48287-RU-CENTER
 /ip firewall address-list add address=89.104.80.0/21 list=AS comment=AS48287-RU-CENTER
 /ip firewall address-list add address=89.111.128.0/24 list=AS comment=AS48287-RU-CENTER
 /ip firewall address-list add address=89.111.130.0/24 list=AS comment=AS48287-RU-CENTER
