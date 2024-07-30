@@ -2814,7 +2814,6 @@
 /ip firewall address-list add address=90.156.201.0/24 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=90.156.204.0/22 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=90.156.240.0/22 list=AS comment=AS25532-MASTERHOST
-/ip firewall address-list add address=90.156.252.0/22 list=AS comment=AS25532-MASTERHOST
 /ip firewall address-list add address=164.215.74.0/24 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=164.215.76.0/22 list=AS comment=AS29076-Filanco-LLC
 /ip firewall address-list add address=185.233.92.0/22 list=AS comment=AS29076-Filanco-LLC
